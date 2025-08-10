@@ -1,0 +1,1 @@
+Tic Tac Toe is a classic two-player strategy game implemented as a lightweight web application. Players take turns marking X and O on a 3x3 grid, aiming to get three of their marks in a row horizontally, vertically, or diagonally. 
